@@ -1,2 +1,3 @@
-# hello-swift-ui-image-package
-Package demo for SwiftUI Image
+# Hello SwiftUI Image Package
+
+Package demo for SwiftUI Image.
