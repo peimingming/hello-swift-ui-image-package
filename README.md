@@ -8,4 +8,4 @@ Package demo for SwiftUI Image.
 
 ## Consumer
 
-[@peimingming/hello-swift-ui-image-package](https://github.com/peimingming/hello-swift-ui-image-package)
+[@peimingming/hello-swift-ui-image](https://github.com/peimingming/hello-swift-ui-image)
